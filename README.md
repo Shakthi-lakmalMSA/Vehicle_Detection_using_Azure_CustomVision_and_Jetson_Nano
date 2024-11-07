@@ -67,7 +67,7 @@ Download the model and transfer it to your Jetson Nano using SCP or USB.
 How to build an Object detection model with Azure Custom Vision: https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/get-started-build-detector
 
 
-Link to Demo presentation :
+Link to Demo presentation : https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/EZeOSh-XMitCixX7_6UIXO8BP2GoEi7sya4Z_hpuLghkUA?e=0CIzuO
 
 
 
