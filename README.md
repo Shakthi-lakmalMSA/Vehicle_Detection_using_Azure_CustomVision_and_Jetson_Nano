@@ -1,4 +1,4 @@
-# Developing a Vehicle detection model using Azure Custom Vision with NVIDIA Jetson Nano & DeepStream
+# Developing a Vehicle detection model using Microsoft Azure Custom Vision with NVIDIA Jetson Nano & DeepStream
 
 This explains using NVIDIA DeepStream to install, boot, and operate an Object Detection model for tracking vehicles on an NVIDIA Jetson Nano. Docker is used for deployment on the Jetson Nano, and Azure Custom Vision is utilized to train an object detection model.
 
