@@ -38,24 +38,28 @@ Open a terminal on the Jetson Nano and run:
 
 
 #Copy code
+'''
 sudo apt update
 sudo apt install -y libssl1.0.0 libgstreamer1.0-0 libgstreamer-plugins-base1.0-dev \
                     libgstreamer-plugins-good1.0-dev gstreamer1.0-tools
+'''
 Step 2.2: Install NVIDIA DeepStream
 Download the latest DeepStream SDK for Jetson from the NVIDIA Developer website.
 
 #Install the DeepStream SDK:
 
 #Copy code
+'''
 sudo dpkg -i deepstream-<version>-jetson.deb
 sudo apt --fix-broken install
-
+'''
 
 #Verify the installation:
 
 #Copy code
+'''
 deepstream-app --version-all
-
+'''
 Step 3.1: Train a Model on Azure
 Sign in to Azure Custom vision
 Use the Azure Custom Vision service for Object Detection. You can either upload your dataset for vehicle tracking or use a pre-existing dataset.
