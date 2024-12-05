@@ -46,14 +46,14 @@ Download the latest DeepStream SDK for Jetson from the NVIDIA Developer website.
 
 #Install the DeepStream SDK:
 
-Copy code
+#Copy code
 sudo dpkg -i deepstream-<version>-jetson.deb
 sudo apt --fix-broken install
 
 
 #Verify the installation:
 
-Copy code
+#Copy code
 deepstream-app --version-all
 
 Step 3.1: Train a Model on Azure
